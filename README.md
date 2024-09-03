@@ -70,12 +70,21 @@
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=us&theme=github-dark-dimmed&custom_title=us%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
----
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![us's github stats](https://github-readme-stats.vercel.app/api?username=us&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=us&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=us&theme=dark)](https://git.io/streak-stats)
-
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="us's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=us&theme=github-dark-dimmed&custom_title=us%20Activity%20Graph&hide_border=true" />
+  </a>
+  <br/>
+  <img alt="us's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=us&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" />
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=us&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" />
+  </a>
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=us&theme=dark" />
+  </a>
+</p>
 
 
 <p align="center">
@@ -104,7 +113,7 @@
  > 
 > 🏆 168 Contributions in the Year 2024
  > 
-> 💼 Opted to Hire
+> 💼 Open to Hire
  > 
 > 📜 39 Public Repositories 
  > 
