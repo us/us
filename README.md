@@ -76,27 +76,19 @@ publications:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C743%20hrs%202%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.4%20million%20lines%20of%20code-blue)
+```txt
+From: 28 August 2024 - To: 02 September 2024
 
-**🐱 My GitHub Data** 
+Total Time: 6 hrs 10 mins
 
-**I'm a Night 🦉** 
-
-```text
-
+Python       3 hrs 42 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.11 %
+HTML         1 hr 19 mins    ⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.42 %
+Markdown     38 mins         ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.36 %
+YAML         11 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.22 %
+Text         6 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.80 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-
-```
-
-
- Last Updated on 28/08/2024 12:41:04 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
