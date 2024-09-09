@@ -4,7 +4,7 @@
 
 
 <p>
-  <img src="https://github.com/user-attachments/assets/c6d87e00-92dc-4bc3-9bb2-62e01cd8c427" alt="Profile Image" width="400px" align="left" style="margin-right: 20px;" />
+  <img src="https://github.com/user-attachments/assets/c4633ba9-8bc6-4eb7-a8dc-24de84b2e1f2" alt="Profile Image" width="500px" align="left" style="margin-right: 20px;" />
   <h4 align="center">Shortly Me</h4>
   <br/>  
   Hello, I'm Recep, nomad, musician, and machine learning engineer! I specialize in building and deploying machine learning models for real-world applications, including natural language processing, computer vision, and MLOps workflows.
