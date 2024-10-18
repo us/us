@@ -1,6 +1,6 @@
 [![Actions Status](https://github.com/us/us/workflows/update-gh-activity/badge.svg)](https://github.com/us/us/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=us.us)
-
+![](https://komarev.com/ghpvc/?us=us&style=plastic&color=green)
 
 
 <p>
