@@ -36,6 +36,7 @@
   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-4CAF50?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-2196F3?style=for-the-badge&logo=opencv&logoColor=white" />
   <img alt="NLP" src="https://img.shields.io/badge/NLP-9C27B0?style=for-the-badge&logo=natural-language-processing&logoColor=white" />
+  <img alt="LLM" src="https://img.shields.io/badge/LLM-FF5733?style=for-the-badge&logoColor=white" />
   <img alt="MLOps" src="https://img.shields.io/badge/MLOps-FF9800?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
@@ -61,11 +62,14 @@
 
 <h4 align="center">Frameworks</h4>
 <p align="center">
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FE5196?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-FFC107?style=for-the-badge&logo=langgraph&logoColor=white" />
+  <img alt="AutoGen" src="https://img.shields.io/badge/AutoGen-4CAF50?style=for-the-badge&logo=autogen&logoColor=white" />
 </p>
 
 <h4 align="center">Other Tools</h4>
