@@ -101,8 +101,8 @@
 <!-- </p> -->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1129](https://github.com/assafelovic/gpt-researcher/issues/1129) in [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
-2. 🗣 Commented on [#10](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI/issues/10#issuecomment-2292417552) in [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)
+1. ❗ Opened issue [#1176](https://github.com/assafelovic/gpt-researcher/issues/1176) in [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
+2. ❗ Opened issue [#1129](https://github.com/assafelovic/gpt-researcher/issues/1129) in [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
 3. 🔒 Closed issue [#1](https://github.com/us/Hark/issues/1) in [us/Hark](https://github.com/us/Hark)
 4. ❗ Opened issue [#20](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI/issues/20) in [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)
 5. 🗣 Commented on [#12](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI/issues/12#issuecomment-2284287344) in [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)
