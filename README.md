@@ -101,11 +101,11 @@
 <!-- </p> -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1171](https://github.com/assafelovic/gpt-researcher/issues/1171#issuecomment-2696544410) in [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
-2. ❗ Opened issue [#1176](https://github.com/assafelovic/gpt-researcher/issues/1176) in [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
-3. ❗ Opened issue [#1129](https://github.com/assafelovic/gpt-researcher/issues/1129) in [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
-4. ❗ Opened issue [#20](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI/issues/20) in [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)
-5. 🗣 Commented on [#12](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI/issues/12#issuecomment-2284287344) in [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)
+1. 🚀 Published release [v0.1.9 -- Full Docker CLI Flag Compatibility](https://github.com/us/mocker/releases/tag/v0.1.9) in [us/mocker](https://github.com/us/mocker)
+2. 🚀 Published release [v0.0.12](https://github.com/us/crw/releases/tag/v0.0.12) in [us/crw](https://github.com/us/crw)
+3. 🚀 Published release [v0.0.11](https://github.com/us/crw/releases/tag/v0.0.11) in [us/crw](https://github.com/us/crw)
+4. 🚀 Published release [v0.0.10](https://github.com/us/crw/releases/tag/v0.0.10) in [us/crw](https://github.com/us/crw)
+5. 🚀 Published release [v0.0.8](https://github.com/us/crw/releases/tag/v0.0.8) in [us/crw](https://github.com/us/crw)
 <!--END_SECTION:activity-->
 
 <h2 align="center">🎧 Spotify</h2>
