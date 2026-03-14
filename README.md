@@ -1,18 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=us&fontSize=32&fontColor=ffffff&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5E642&height=120&section=header&text=us&fontSize=42&fontColor=151515&fontAlignY=35"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=us&style=flat-square&color=green" alt="Profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=us&style=flat-square&color=F5E642" alt="Profile views" />
+  <a href="https://us.github.io"><img alt="Website" src="https://img.shields.io/badge/us.github.io-151515?style=flat-square&logo=github-pages&logoColor=F5E642" /></a>
+</p>
 
 <p>
   <img src="https://github.com/user-attachments/assets/c4633ba9-8bc6-4eb7-a8dc-24de84b2e1f2" alt="Profile Image" width="500px" align="left" style="margin-right: 20px;" />
 
-  Hello, I'm Recep, nomad, musician, and machine learning engineer! I specialize in building and deploying machine learning models for real-world applications, including natural language processing, computer vision, and MLOps workflows.
+  ML specialist with expertise in LLMs, agent frameworks, and generative AI. Building scalable AI systems from research to production. Google Summer of Code alumnus with TensorFlow.
   <br/><br/>
-  I am passionate about learning new technologies and contributing to open-source projects. If you'd like to collaborate, feel free to connect with me on LinkedIn or GitHub!
+  When I'm not shipping AI systems, I produce music and play guitar. Creativity in engineering and music share the same foundation: pattern recognition and the courage to break patterns.
   <br/><br/>
   <a href="https://www.linkedin.com/in/recepahmetsaritekin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rahmetsaritekin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://us.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-151515?style=for-the-badge&logo=safari&logoColor=F5E642" /></a>
 </p>
 <br clear="left"/>
 
@@ -27,13 +31,15 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="JAX" src="https://img.shields.io/badge/JAX-A435F0?style=flat-square&logo=google&logoColor=white" />
   <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FE5196?style=flat-square&logo=huggingface&logoColor=black" />
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-FF6F00?style=flat-square&logoColor=white" />
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-FFC107?style=flat-square&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
 </p>
 
@@ -42,13 +48,13 @@
 <h3 align="center">Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=us&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=us&show_icons=true&title_color=F5E642&icon_color=F5E642&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=us&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=us&background=151515&ring=F5E642&fire=F5E642&currStreakLabel=F5E642&sideLabels=daf7dc&dates=888888&currStreakNum=daf7dc&sideNums=daf7dc" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=us&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=us&layout=compact&title_color=F5E642&text_color=daf7dc&bg_color=151515&hide=css,html,php" />
 </p>
 
 ---
@@ -56,7 +62,7 @@
 <h3 align="center">Recent Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=us&theme=github-dark-dimmed&custom_title=Contribution%20Graph&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=us&bg_color=151515&color=daf7dc&line=F5E642&point=F5E642&area_color=F5E642&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 </p>
 
 <!--START_SECTION:activity-->
@@ -72,9 +78,9 @@
 <h3 align="center">Now Playing</h3>
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g1ms5i2iyvgx9ilnwmygth5xq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g1ms5i2iyvgx9ilnwmygth5xq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=F5E642&bar_color_cover=false">
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5E642&height=60&section=footer"/>
 </p>
