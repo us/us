@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Recep%20Ahmet%20Saritekin&fontSize=32&fontColor=ffffff&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=us&fontSize=32&fontColor=ffffff&fontAlignY=35"/>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=us&style=flat-square&color=green" alt="Profile views" />
