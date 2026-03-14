@@ -2,23 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Recep%20Ahmet%20Saritekin&fontSize=32&fontColor=ffffff&fontAlignY=35"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=us&style=flat-square&color=green" alt="Profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=us&style=flat-square&color=green" alt="Profile views" />
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c4633ba9-8bc6-4eb7-a8dc-24de84b2e1f2" alt="Profile Image" width="400px" />
-</p>
+<p>
+  <img src="https://github.com/user-attachments/assets/c4633ba9-8bc6-4eb7-a8dc-24de84b2e1f2" alt="Profile Image" width="500px" align="left" style="margin-right: 20px;" />
 
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/~01b6b5e5b6c1234567"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  Hello, I'm Recep, nomad, musician, and machine learning engineer! I specialize in building and deploying machine learning models for real-world applications, including natural language processing, computer vision, and MLOps workflows.
+  <br/><br/>
+  I am passionate about learning new technologies and contributing to open-source projects. If you'd like to collaborate, feel free to connect with me on LinkedIn or GitHub!
+  <br/><br/>
   <a href="https://www.linkedin.com/in/recepahmetsaritekin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rahmetsaritekin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-Nomad, musician, and ML engineer. I build and deploy machine learning models for NLP, computer vision, and MLOps workflows. Passionate about open-source — feel free to connect!
+<br clear="left"/>
 
 ---
 
