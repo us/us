@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/c4633ba9-8bc6-4eb7-a8dc-24de84b2e1f2" alt="Profile Image" width="400px" />
+</p>
+
+<p align="center">
   <a href="https://www.upwork.com/freelancers/~01b6b5e5b6c1234567"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/recepahmetsaritekin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rahmetsaritekin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
