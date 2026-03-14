@@ -75,8 +75,6 @@
 
 ---
 
-<h3 align="center">Now Playing</h3>
-
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g1ms5i2iyvgx9ilnwmygth5xq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=F5E642&bar_color_cover=false">
 </p>
