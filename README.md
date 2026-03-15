@@ -11,6 +11,8 @@
     <a href="mailto:rahmetsaritekin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://soundcloud.com/usxperiment"><img alt="SoundCloud" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
   </p>
+  <br/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g1ms5i2iyvgx9ilnwmygth5xq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=F5E642&bar_color_cover=false" width="400px">
 </p>
 <br clear="left"/>
 
@@ -19,12 +21,6 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=us&show_icons=true&title_color=F5E642&icon_color=F5E642&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=us&bg_color=151515&color=daf7dc&line=F5E642&point=F5E642&area_color=F5E642&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g1ms5i2iyvgx9ilnwmygth5xq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=F5E642&bar_color_cover=false">
 </p>
 
 <p align="center">
