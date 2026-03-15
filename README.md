@@ -40,9 +40,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=us&show_icons=true&title_color=F5E642&icon_color=F5E642&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=us&layout=compact&title_color=F5E642&text_color=daf7dc&bg_color=151515&hide=css,html,php" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=us&background=151515&ring=F5E642&fire=F5E642&currStreakLabel=F5E642&sideLabels=daf7dc&dates=888888&currStreakNum=daf7dc&sideNums=daf7dc" />
 </p>
 
