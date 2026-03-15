@@ -16,37 +16,9 @@
 
 ---
 
-<h3 align="center">Tech Stack</h3>
-
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="JAX" src="https://img.shields.io/badge/JAX-A435F0?style=flat-square&logo=google&logoColor=white" />
-  <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FE5196?style=flat-square&logo=huggingface&logoColor=black" />
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-FF6F00?style=flat-square&logoColor=white" />
-  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-FFC107?style=flat-square&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=us&show_icons=true&title_color=F5E642&icon_color=F5E642&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=us&bg_color=151515&color=daf7dc&line=F5E642&point=F5E642&area_color=F5E642&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=us&show_icons=true&title_color=F5E642&icon_color=F5E642&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=us&bg_color=151515&color=daf7dc&line=F5E642&point=F5E642&area_color=F5E642&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 </p>
 
 ---
