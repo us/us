@@ -47,14 +47,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=us&bg_color=151515&color=daf7dc&line=F5E642&point=F5E642&area_color=F5E642&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 </p>
 
-<!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.9 -- Full Docker CLI Flag Compatibility](https://github.com/us/mocker/releases/tag/v0.1.9) in [us/mocker](https://github.com/us/mocker)
-2. 🚀 Published release [v0.0.12](https://github.com/us/crw/releases/tag/v0.0.12) in [us/crw](https://github.com/us/crw)
-3. 🚀 Published release [v0.0.11](https://github.com/us/crw/releases/tag/v0.0.11) in [us/crw](https://github.com/us/crw)
-4. 🚀 Published release [v0.0.10](https://github.com/us/crw/releases/tag/v0.0.10) in [us/crw](https://github.com/us/crw)
-5. 🚀 Published release [v0.0.8](https://github.com/us/crw/releases/tag/v0.0.8) in [us/crw](https://github.com/us/crw)
-<!--END_SECTION:activity-->
-
 ---
 
 <p align="center">
