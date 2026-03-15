@@ -5,9 +5,9 @@
   <br/><br/>
   When I'm not shipping AI systems, I produce music and play guitar. Creativity in engineering and music share the same foundation: pattern recognition and the courage to break patterns.
   <br/><br/>
+  <a href="https://us.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-151515?style=for-the-badge&logo=safari&logoColor=F5E642" /></a>
   <a href="https://www.linkedin.com/in/recepahmetsaritekin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rahmetsaritekin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://us.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-151515?style=for-the-badge&logo=safari&logoColor=F5E642" /></a>
 </p>
 <br clear="left"/>
 
@@ -40,17 +40,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=us&show_icons=true&title_color=F5E642&icon_color=F5E642&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=us&layout=compact&title_color=F5E642&text_color=daf7dc&bg_color=151515&hide=css,html,php" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=us&background=151515&ring=F5E642&fire=F5E642&currStreakLabel=F5E642&sideLabels=daf7dc&dates=888888&currStreakNum=daf7dc&sideNums=daf7dc" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=us&layout=compact&title_color=F5E642&text_color=daf7dc&bg_color=151515&hide=css,html,php" />
-</p>
 
 ---
-
-<h3 align="center">Recent Activity</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=us&bg_color=151515&color=daf7dc&line=F5E642&point=F5E642&area_color=F5E642&area=true&hide_border=true&custom_title=Contribution%20Graph" />
