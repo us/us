@@ -10,7 +10,7 @@
   <a href="mailto:rahmetsaritekin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://soundcloud.com/usxperiment"><img alt="SoundCloud" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
   <br/><br/>
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g1ms5i2iyvgx9ilnwmygth5xq&cover_image=false&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=F5E642" width="250px">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=g1ms5i2iyvgx9ilnwmygth5xq&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g1ms5i2iyvgx9ilnwmygth5xq&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false" width="250px"></a>
 </p>
 <br clear="left"/>
 
