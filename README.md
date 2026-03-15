@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5E642&height=120&section=header&text=us&fontSize=42&fontColor=151515&fontAlignY=35"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=us&style=flat-square&color=F5E642" alt="Profile views" />
-  <a href="https://us.github.io"><img alt="Website" src="https://img.shields.io/badge/us.github.io-151515?style=flat-square&logo=github-pages&logoColor=F5E642" /></a>
-</p>
-
 <p>
   <img src="https://github.com/user-attachments/assets/c4633ba9-8bc6-4eb7-a8dc-24de84b2e1f2" alt="Profile Image" width="500px" align="left" style="margin-right: 20px;" />
 
