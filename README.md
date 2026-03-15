@@ -5,15 +5,14 @@
   <br/><br/>
   When I'm not shipping AI systems, I produce music and play guitar. Creativity in engineering and music share the same foundation: pattern recognition and the courage to break patterns.
   <br/><br/>
+  <p align="center">
+    <a href="https://us.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-151515?style=for-the-badge&logo=safari&logoColor=F5E642" /></a>
+    <a href="https://www.linkedin.com/in/recepahmetsaritekin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:rahmetsaritekin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://soundcloud.com/usxperiment"><img alt="SoundCloud" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
+  </p>
 </p>
 <br clear="left"/>
-
-<p align="center">
-  <a href="https://us.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-151515?style=for-the-badge&logo=safari&logoColor=F5E642" /></a>
-  <a href="https://www.linkedin.com/in/recepahmetsaritekin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rahmetsaritekin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://soundcloud.com/usxperiment"><img alt="SoundCloud" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
-</p>
 
 ---
 
